@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    font-family: "Poppins", sans-serif;
+    background: #eef0f8 !important;
+  }
+}
+
+.gelpCx {
+  border-radius: 0.5rem !important;
+}
+
+.dataTables_wrapper .rdt_TableCell {
+  font-size: 25px;
+}
+
+.rdt_TableCol {
+  font-size: 16px;
+}

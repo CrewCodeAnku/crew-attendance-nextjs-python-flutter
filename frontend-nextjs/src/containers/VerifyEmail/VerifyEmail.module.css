@@ -1,0 +1,21 @@
+.verifydiv {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  height: calc(100vh - 116px);
+  overflow: hidden;
+}
+
+.verify {
+  width: 100%;
+  max-width: 600px;
+  padding: 15px;
+  margin: 0 auto;
+  min-width: 600px;
+}

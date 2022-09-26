@@ -1,0 +1,83 @@
+/*.signindiv {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.signinheader {
+  background: #fbfbfd;
+  box-shadow: 0px 1px 0px #eaedf3;
+  padding: 0 16px 19px;
+}
+
+.signinfav {
+  background: #bd2130;
+  color: #fff;
+  border-radius: 100%;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  position: relative;
+  top: -36px;
+}
+
+.signinheader h4 {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  color: #090f38;
+}
+
+.signinbody button {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  color: #f8fafc;
+  padding: 12px 0;
+}
+
+.signinbody .form-group {
+  margin-bottom: 24px;
+}
+
+.formsignin {
+  background: #ffffff;
+  border: 1px solid #eaedf3;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 0;
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto;
+}
+.formsignin .checkbox {
+  font-weight: 400;
+}
+.formsignin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.formsignin .form-control:focus {
+  z-index: 2;
+}
+.formsignin input[type="email"] {
+  margin-bottom: -1px;
+}
+.formsignin input[type="password"] {
+  margin-bottom: 10px;
+}*/
