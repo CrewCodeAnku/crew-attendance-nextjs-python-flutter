@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;[![License](https://img.shields.io/badge/license-MIT-brightgreen)](https://crew-code.com/node-express-typescript-mongo-rest-api/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
-Ecommerce application built in React and Laravel, React as frontend and Laravel as backend
+Crew Attendance is web and mobile application used to mark attendance of a class using realtime face recognition
 
 ## Features and Functionalities 😃
 
